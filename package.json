@@ -1,0 +1,14 @@
+{
+  "name": "node-java-pdf",
+  "version": "0.0.1",
+  "description": "App to create pdf from nodejs using java library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun RP",
+  "license": "ISC",
+  "dependencies":{
+    "java":"0.4.2"
+  }
+}
